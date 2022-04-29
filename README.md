@@ -1,0 +1,2 @@
+# o-libtool
+GNU libtool
